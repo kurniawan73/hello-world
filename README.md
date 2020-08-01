@@ -1,3 +1,10 @@
-# git init proyek-01
-git init.
-git init /bar/html/www/proyekweb
+<!doctype html>
+<html>
+<head>
+  <title></title>
+</head>
+
+<body>
+
+</body>
+</html>
